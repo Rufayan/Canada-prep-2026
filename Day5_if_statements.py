@@ -33,3 +33,5 @@ for i in range(len(cities)):
 
 print(f"\nResult: You can apply to {qualified_jobs} out of {len(cities)} cities")
 print("Day 5 analysis complete!")
+
+
